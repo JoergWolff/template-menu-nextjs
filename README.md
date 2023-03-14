@@ -2,6 +2,16 @@
 
 This template is only intended as a template for your own projects. There are links, but they have no goals.
 
+The links are in the index.js as an array.
+Code:
+
+`  const navElements = [
+    { id: 1, name: "Home", link: "#" },
+    { id: 2, name: "About", link: "#" },
+    { id: 3, name: "Contact", link: "#" },
+    { id: 4, name: "Ganz langer Text", link: "#" },
+  ];`
+
 ## Iphone SE view
 
 ### Burger closed
